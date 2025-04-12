@@ -1,5 +1,5 @@
 {
-  "name": "dawood_a",
+  "name": "DAWOOD_A",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AZIMIDAWOOD/dawood_a.git"
+    "url": "git+https://github.com/AZIMIDAWOOD/DAWOOD_A.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AZIMIDAWOOD/dawood_a/issues"
+    "url": "https://github.com/AZIMIDAWOOD/DAWOOD_A/issues"
   },
-  "homepage": "https://github.com/AZIMIDAWOOD/dawood_a#readme",
+  "homepage": "https://github.com/AZIMIDAWOOD/DAWOOD_A#readme",
   "description": "",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.3",
